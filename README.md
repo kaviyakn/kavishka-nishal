@@ -68,7 +68,7 @@ Click Pikachu logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/learningbot791/zim-bot?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/learningbot79/zim-bot?v=1)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/zimbabwe-bots/whatsapp-bot.git)
      </div>
